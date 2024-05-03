@@ -10,7 +10,7 @@
 	
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
-		<sonar.host.url>http://18.207.141.103:9000/</sonar.host.url>
+		<sonar.host.url>http://34.204.101.119:9000/</sonar.host.url>
 
 	</properties>
 	<dependencies>
@@ -28,7 +28,7 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://35.153.57.231:8081/repository/game-of-life-repo-snapshot/</url>
+		    <url></url>
 		 </snapshotRepository>
 		
 		<repository>
